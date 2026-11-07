@@ -40,7 +40,7 @@ The project is divided into several engineering disciplines. Each discipline has
 
 | Discipline | Description | Repository |
 |---|---|---|
-| Mechanical Engineering | Chassis, drivetrain, snow-clearing mechanism, and mechanical assemblies. | [Mechanical Repository]([REPOSITORY_LINK](https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design)) |
+| Mechanical Engineering | Chassis, drivetrain, snow-clearing mechanism, and mechanical assemblies. | [Mechanical Repository]((https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design)) |
 | Electrical Engineering | Power distribution, motor drivers, sensors, wiring, and electrical integration. | [Electrical Repository](REPOSITORY_LINK) |
 | Software Engineering | Autonomous navigation, localization, perception, and control software. | [Software Repository](REPOSITORY_LINK) |
 | System Integration | Integration of mechanical, electrical, and software subsystems. | [Integration Repository](REPOSITORY_LINK) |
