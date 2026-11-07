@@ -40,7 +40,7 @@ The project is divided into several engineering disciplines. Each discipline has
 
 | Discipline | Description | Repository |
 |---|---|---|
-| Mechanical Engineering | Chassis, drivetrain, snow-clearing mechanism, and mechanical assemblies. | [Mechanical Repository](REPOSITORY_LINK) |
+| Mechanical Engineering | Chassis, drivetrain, snow-clearing mechanism, and mechanical assemblies. | [Mechanical Repository]([REPOSITORY_LINK](https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design)) |
 | Electrical Engineering | Power distribution, motor drivers, sensors, wiring, and electrical integration. | [Electrical Repository](REPOSITORY_LINK) |
 | Software Engineering | Autonomous navigation, localization, perception, and control software. | [Software Repository](REPOSITORY_LINK) |
 | System Integration | Integration of mechanical, electrical, and software subsystems. | [Integration Repository](REPOSITORY_LINK) |
@@ -77,10 +77,10 @@ The following resources provide additional information about the project's devel
 
 | Document | Description | Link |
 |---|---|---|
-| Project Proposal | Initial project scope, objectives, and proposed methodology. | [View Document](LINK) |
-| Design Report | Detailed engineering design and supporting analysis. | [View Document](LINK) |
-| Testing Documentation | Testing procedures, results, and performance evaluation. | [View Document](LINK) |
-| Final Report | Final project documentation and conclusions. | [View Document](LINK) |
+| Project Proposal | Initial project scope, objectives, and proposed methodology. | [View Document](https://github.com/MREN403-CAPSTONE-GROUP9/Deliverables_and_Workshop_Activities/blob/main/MREN403-Group9-Frosty%20Robot-Project%20Proposal.pdf) |
+| Preliminary Design Review | Detailed engineering design and supporting analysis. | N/A |
+| Critical Design Review | Testing procedures, results, and performance evaluation. | N/A |
+| Final Report | Final project documentation and conclusions. | N/A |
 
 ---
 
