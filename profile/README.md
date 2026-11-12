@@ -54,8 +54,12 @@ The project is divided into several systems. Each system has a dedicated reposit
 
 Project planning, task assignments, progress tracking, and scheduling are managed through GitHub Projects.
 
+Project Gantt chart holds estimated project timeline.
+
+Project issues drive the Gantt chart and is used for task assignment. Day-to-day progress and updates on tasks are located in issue comments.
+
 - [Project Gantt Chart](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/2)
-- [Project Issues and Tasks](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/1)
+- [Project Issues](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/1)
 
 ---
 
