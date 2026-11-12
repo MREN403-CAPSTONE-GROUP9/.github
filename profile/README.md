@@ -36,26 +36,17 @@ The robot will utilize a teach-and-repeat navigation approach, incorporating GNS
 
 ## 2. Engineering Design and Development
 
-The project is divided into several engineering disciplines. Each discipline has a dedicated repository containing its respective design files, technical documentation, and development work.
+The project is divided into several systems. Each system has a dedicated repository containing its respective design files and technical documentation. Additional repositories house documentation regarding project development.
 
-| Discipline | Description | Repository |
+| System | Description | Repository |
 |---|---|---|
-| Mechanical Engineering | Chassis, drivetrain, snow-clearing mechanism, and mechanical assemblies. | [Mechanical Repository](https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design) |
-| Electrical Engineering | Power distribution, motor drivers, sensors, wiring, and electrical integration. | [Electrical Repository](REPOSITORY_LINK) |
-| Software Engineering | Autonomous navigation, localization, perception, and control software. | [Software Repository](REPOSITORY_LINK) |
-| System Integration | Integration of mechanical, electrical, and software subsystems. | [Integration Repository](REPOSITORY_LINK) |
-
-### Mechanical Engineering
-
-This repository contains the mechanical design and development of the robotic platform, including CAD assemblies, component drawings, design calculations, and manufacturing documentation.
-
-### Electrical Engineering
-
-This repository contains the electrical architecture, component selection, circuit designs, wiring diagrams, and power management documentation.
-
-### Software Engineering
-
-This repository contains the software development environment, ROS2 packages, navigation algorithms, sensor integration, and control systems.
+| Mechanical | Chassis, drivetrain, snow-clearing mechanism, and mechanical assemblies. | [Mechanical Repository](https://github.com/MREN403-CAPSTONE-GROUP9/Mechanical_Design) |
+| Electrical | Power distribution, motor drivers, wiring, and electrical integration. | [Electrical Repository](https://github.com/MREN403-CAPSTONE-GROUP9/Electrical_Design) |
+| Robot Environment | ROS Environment run on the robot. Handles system integration and control. | [Robot Environment](https://github.com/MREN403-CAPSTONE-GROUP9/robotEnv) |
+| Robot Control | ROS Environment run on user's computer for user control and simulation. | [Robot Control](https://github.com/MREN403-CAPSTONE-GROUP9/robotControl) |
+| LiDAR | Workspace for Livox Avia 3D LiDAR. | [LiDAR Workspace](https://github.com/MREN403-CAPSTONE-GROUP9/ws_livox) |
+| Project Timeline | Houses the issues that drive the project Gantt chart. | [Project Timeline](https://github.com/MREN403-CAPSTONE-GROUP9/Project_Timeline) |
+| Documentation | General documentation for entire project. Includes workshop activities, course deliverables, and system tests. | [Documentation Repository](https://github.com/MREN403-CAPSTONE-GROUP9/Documentation)
 
 ---
 
@@ -63,11 +54,8 @@ This repository contains the software development environment, ROS2 packages, na
 
 Project planning, task assignments, progress tracking, and scheduling are managed through GitHub Projects.
 
-- [Project Management Board](PROJECT_LINK)
-- [Project Roadmap / Gantt Chart](ROADMAP_LINK)
-- [Project Issues and Tasks](ISSUES_LINK)
-
-The project roadmap tracks major engineering deliverables, design milestones, integration activities, and testing schedules throughout the academic year.
+- [Project Gantt Chart](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/2)
+- [Project Issues and Tasks](https://github.com/orgs/MREN403-CAPSTONE-GROUP9/projects/1/views/1)
 
 ---
 
