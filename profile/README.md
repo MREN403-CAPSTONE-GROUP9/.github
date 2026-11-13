@@ -2,9 +2,9 @@
 
 **Queen's University | Mechatronics Engineering | MREN 403 Capstone Project | 2026–2027**
 
-Welcome to the engineering portfolio for our MREN 403 capstone project. Our team is developing an autonomous snow-clearing robot designed to assist with winter sidewalk maintenance throughout Kingston, Ontario.
+The purpose of this project is to develop an autonomous snow-clearing robot designed to assist with winter sidewalk maintenance throughout Kingston, Ontario.
 
-This portfolio serves as the central repository for our engineering design work, technical development, documentation, and project management.
+This portfolio serves as the central repository for the engineering design work, technical development, documentation, and project management.
 
 ---
 
@@ -14,7 +14,7 @@ This portfolio serves as the central repository for our engineering design work,
 
 Kingston experiences significant winter snowfall, creating ongoing challenges for maintaining accessible and safe pedestrian infrastructure. Traditional sidewalk snow removal relies heavily on manual labour and conventional snow-clearing equipment.
 
-Our project explores the feasibility of an autonomous robotic platform capable of navigating sidewalks and performing snow-clearing operations with minimal human intervention.
+The project explores the feasibility of an autonomous robotic platform capable of navigating sidewalks and performing snow-clearing operations with minimal human intervention.
 
 ### Project Objectives
 
