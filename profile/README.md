@@ -86,11 +86,3 @@ The following resources provide additional information about the project's devel
 - Quinton Rodgers
 
 ---
-
-## 6. Repository Navigation
-
-This organization contains the complete engineering portfolio for the autonomous snow-clearing robot.
-
-For an overview of the project, begin with this page. For detailed engineering work, navigate to the corresponding discipline repository. Project progress and deliverables can be followed through the GitHub Project Management Board.
-
-**Thank you for exploring our project!**
