@@ -32,6 +32,8 @@ The proposed system integrates mechanical, electrical, and software subsystems i
 
 The robot will utilize a teach-and-repeat navigation approach, incorporating GNSS, wheel encoders, and an IMU for localization and route following. Additional sensing capabilities, including LiDAR and/or cameras, will support obstacle detection and environmental awareness.
 
+The ROS2 network is design for a host PC running WSL as a controller based on the robotControl repo. The robot will have a raspberry pi running ROS on ubuntu. That device will be pointed to the IP of the controller PC as the ros host device. ROS2 automatically shares topics between devices on the same ros domain ID and LAN. Currently robot environment (https://github.com/MREN403-CAPSTONE-GROUP9/robotEnv) has an opencv_tools package to test video streaming and the py_pubsub package to test basic topic communication. Robot Control (https://github.com/MREN403-CAPSTONE-GROUP9/robotEnv) only has scripts to set up ros on wsl and windows to listen and view topics with ros built in tools. 
+
 ---
 
 ## 2. Engineering Design and Development
